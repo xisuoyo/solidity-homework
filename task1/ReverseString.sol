@@ -24,7 +24,7 @@ contract ReverseString {
     // 测试函数
     function testReverse() private pure returns (string[] memory results) {
         // 创建结果数组
-        results = new string[](7)
+        results = new string[](7);
         
         // 测试用例1：普通字符串
         results[0] = reverse("abcde");  // 应该返回 "edcba"

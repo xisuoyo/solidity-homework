@@ -1,0 +1,15 @@
+{
+  "name": "星球",
+  "description": "只能看到一个点的地球",
+  "image": "ipfs://bafkreigeps4ssufe73sdvq6bzsceod6zgqymv4cmdyfp357tau24ujjeje",
+  "attributes": [
+    {
+      "trait_type": "物体",
+      "value": "地球"
+    },
+    {
+      "trait_type": "视角",
+      "value": "遥远"
+    }
+  ]
+} 
